@@ -1,11 +1,11 @@
 ---
 title: 为什么少有人使用 RESTful API？
 toc: true
-excerpt: 这是一段文章介绍
 date: 2022-03-23 10:57:26
 updated: 2022-03-23 10:57:26
 categories: 后端
 tags: [ 'HTTP', 'RESTful']
+excerpt: 而且不仅是错误信息返回规范，API 设计都很少遵循 RESTful 风格，大多数都是类 JSON RPC。这是为什么呢？
 ---
 ## 前言
 

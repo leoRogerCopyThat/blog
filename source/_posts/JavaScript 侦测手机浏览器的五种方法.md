@@ -1,11 +1,11 @@
 ---
 title: JavaScript 侦测手机浏览器的五种方法
 toc: true
-excerpt: 这是一段文章介绍
 date: 2022-03-23 11:11:58
 updated: 2022-03-23 11:11:58
-categories:
-tags:
+categories: Code
+tags: [ 'JavaScript', 'H5']
+excerpt: 有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。
 ---
 有时候，前端网页需要知道，用户使用的是手机浏览器还是桌面浏览器。
 
